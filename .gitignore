@@ -1,0 +1,5 @@
+instastuff
+.vscode
+*.csv
+*.env
+*.zip
